@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "@shopify/polaris": "latest"
+  },
+  "keywords": [],
+  "name": "merchandiser",
+  "description": ""
+}
